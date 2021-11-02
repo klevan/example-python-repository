@@ -9,7 +9,7 @@ Usage
 
 ### Primary functions
 
-* addNumbers.py - a function that 
+* addNumbers.py - a function that adds two numbers together
 
 #### Short examples
 
