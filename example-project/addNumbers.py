@@ -6,7 +6,7 @@ Created on Tue Nov  2 08:25:14 2021
 """
 
 def addNumbers(x,y):
-    z = x + y + 5
+    z = x + y
     return z
 
 addNumbers(x=1, y=2)
